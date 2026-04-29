@@ -1,4 +1,4 @@
-# htb-writeups
+# HTB-writeups
 
 
 This repository contains educational walkthroughs and methodology-focused notes from retired HTB machines.
