@@ -29,7 +29,7 @@ The initial foothold was obtained by exploiting an unauthenticated file upload v
 I began by enumerating the target using Nmap to identify available services.
 
 ```bash
-nmap -sC -sV -sC -O --reason <TARGET_IP>
+nmap -sS -sV -sC -O --reason <TARGET_IP>
 ```
 
 The scan identified an Apache web server running on port 8080.
